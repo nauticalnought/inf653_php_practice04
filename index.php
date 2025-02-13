@@ -86,6 +86,12 @@ This problem has no output.
 */
 $pizza->set_type('Pepperoni');
 
+/* 06: Set the $pizza type to "Pepperoni". 
+You can do this just below this problem. 
+This problem has no output.
+*/
+
+
 /* 06: Call the get_size method and output the
 returned value in appropriate HTML list item below. */
 
@@ -140,7 +146,8 @@ Set the size to "large".
 Set the type to "Supreme".
 Call the description method for $myPizza
 and output the returned value in 
-appropriate HTML list item below. */
+appropriate HTML list item below.
+?> */
 $myPizza = new Pizza();
 $myPizza->set_size('large');
 $myPizza->set_type('Supreme');
