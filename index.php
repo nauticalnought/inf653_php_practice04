@@ -1,4 +1,3 @@
-<?php 
 /* 
    Place your output code inside the HTML list items for 
    each question comment.
