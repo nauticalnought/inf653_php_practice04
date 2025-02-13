@@ -1,3 +1,4 @@
+<?php
 /* 
    Place your output code inside the HTML list items for 
    each question comment.
@@ -15,7 +16,6 @@ properties: size and type.
 Create the class just below this problem. 
 This problem has no output.
 */
-<?php
 class Pizza {
     // Properties
     public $size;
