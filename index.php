@@ -49,7 +49,7 @@ class Pizza {
         return $this->type;
     }
     function serve(){
-        echo "Here's your " . $this->type . " pizza!"
+        echo "Here's your " . $this->type . " pizza!";
     }
     function get_slices(){
         return $this->slices;
