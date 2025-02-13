@@ -59,7 +59,6 @@ class Pizza {
         " and has " . $this->slices . " slices!";
     }
 }
-?>
    
 /* 02: Add set_size and set_type methods to the Pizza class 
 above. This problem has no output.
@@ -141,8 +140,7 @@ Set the size to "large".
 Set the type to "Supreme".
 Call the description method for $myPizza
 and output the returned value in 
-appropriate HTML list item below.
-?> */
+appropriate HTML list item below. */
 $myPizza = new Pizza();
 $myPizza->set_size('Large');
 $myPizza->set_type('Supreme');
