@@ -142,7 +142,7 @@ Call the description method for $myPizza
 and output the returned value in 
 appropriate HTML list item below. */
 $myPizza = new Pizza();
-$myPizza->set_size('Large');
+$myPizza->set_size('large');
 $myPizza->set_type('Supreme');
 
 ?>
